@@ -21,18 +21,6 @@ I'm **Sujana Mehta** ([@sujanamht](https://github.com/sujanamht)) — a develope
 
 ---
 
-## 📌 Featured projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [sujanamht](https://github.com/sujanamht/sujanamht) | — | — |
-| [portfolio](https://github.com/sujanamht/portfolio) | my-portfolio | HTML |
-| [DailyLearning](https://github.com/sujanamht/DailyLearning) | — | Jupyter Notebook |
-| [taskManagement.ui](https://github.com/sujanamht/taskManagement.ui) | — | TypeScript, HTML, CSS |
-| [selu-advising](https://github.com/sujanamht/selu-advising) | — | — |
-| [walk_by_faith](https://github.com/sujanamht/walk_by_faith) | — | HTML |
-
----
 
 ## 📫 Connect with me
 
